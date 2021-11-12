@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "rfrerebe's weblog"
 theme = 'my-theme'
+
+[build]
+  writeStats = true
